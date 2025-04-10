@@ -6,4 +6,5 @@ Terraform Reconcile job performs a check of existing infrastructure and compares
 |------------|--------|
 | [terraform-aws-access-control](https://github.com/goodsystems/terraform-aws-access-control) | [![terraform-aws-access-control](https://github.com/goodsystems/terraform-aws-access-control/actions/workflows/terraform-aws-access-control.yml/badge.svg?event=schedule)](https://github.com/goodsystems/terraform-aws-access-control/actions/workflows/terraform-aws-access-control.yml) |
 | [terraform-network](https://github.com/goodsystems/terraform-network) | [![terraform-network](https://github.com/goodsystems/terraform-network/actions/workflows/terraform-network.yml/badge.svg?event=schedule)](https://github.com/goodsystems/terraform-network/actions/workflows/terraform-network.yml) |
+| [terraform-eks](https://github.com/goodsystems/terraform-eks) | [![terraform-eks](https://github.com/goodsystems/terraform-eks/actions/workflows/terraform-eks.yml/badge.svg?event=schedule)](https://github.com/goodsystems/terraform-eks/actions/workflows/terraform-eks.yml) |
 
